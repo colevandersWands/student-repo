@@ -1,0 +1,25 @@
+{
+  "name": "template-markdown",
+  "version": "1.0.0",
+  "description": "starter repository for markdown projects at HYF Belgium",
+  "scripts": {
+    "fetch:student": "node .admin/scripts/fetch-avatar.js",
+    "populate:modules": "node .admin/scripts/populate.js modules",
+    "render:modules": "node .admin/scripts/render-section.js modules && prettier --write ./README.md",
+    "render:header": "node .admin/scripts/render-header.js",
+    "format": "prettier --write ./",
+    "spell-check": "cspell './**'",
+    "lint:ls": "ls-lint",
+    "lint:md": "markdownlint --ignore node_modules --config ./.markdownlint.jsonc --fix ./ "
+  },
+  "author": "HYF Belgium",
+  "license": "MIT",
+  "devDependencies": {
+    "cspell": "^5.9.0",
+    "markdownlint-cli": "^0.28.1",
+    "prettier": "^2.3.2"
+  },
+  "dependencies": {
+    "@ls-lint/ls-lint": "^1.10.0"
+  }
+}

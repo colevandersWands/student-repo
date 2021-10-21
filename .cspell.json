@@ -1,0 +1,11 @@
+{
+  "language": "en",
+  "words": ["HackYourFutureBelgium", "HackYourFuture"],
+  "ignorePaths": [
+    "node_modules/**",
+    "package.json",
+    "package-lock.json",
+    "**/*.mp4",
+    "**/*.svg"
+  ]
+}
