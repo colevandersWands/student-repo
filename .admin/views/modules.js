@@ -11,12 +11,6 @@ const renderModule = (module, mainData) => {
         module.name
       }`;
 
-  const materials = mainData.curriculumUserName
-    ? ` | <a href="https://github.com/${
-        module.userName || mainData.curriculumUserName
-      }/${module.name}">materials</a>`
-    : "";
-
   const chapters =
     typeof module.chapters === "number"
       ? `    ${module.chapters} chapter${module.chapters !== 1 ? "s" : ""}`
@@ -61,7 +55,9 @@ const renderModule = (module, mainData) => {
     ? `| <a href="./${module.name}/retrospective.md">retro</a> `
     : "";
 
-  const myMaterialsFork = `| <a href="https://github.com/${student.userName}/${module.name}">my fork</a>`;
+  const myMaterialsFork = module.chapters
+    ? `| <a href="https://github.com/${student.userName}/${module.name}">my fork</a>`
+    : "";
 
   const assessment = module.assessment
     ? ` | <a href="./${module.name}/assessment">assessment</a>`

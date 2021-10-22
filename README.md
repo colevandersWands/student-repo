@@ -8,7 +8,6 @@
 - [lab-antwerp-1/home](https://github.com/lab-antwerp-1/home#colevandersWands)
 - [home page](https://colevandersWands.github.io)
 
-
 <!-- END HEADER -->
 
 ---
@@ -16,7 +15,7 @@
 <!-- BEGIN MODULES -->
   <ul  style="list-style-type:none;">
 
-<li><h3><a href="https://home.hackyourfuture.be/curriculum/precourse" style="display: inline;">precourse</a></h3>  <ul><li><p>    0 chapters   | <a href="https://github.com/lab-antwerp-1/home/projects/1?card_filter_query=label%3Adeliverable+milestone%3Aprecourse+assignee%3AcolevandersWands">deliverables</a> | <a href="https://github.com/colevandersWands/precourse">my fork</a>  </p></li></ul></li>
+<li><h3><a href="https://home.hackyourfuture.be/curriculum/precourse" style="display: inline;">precourse</a></h3>  <ul><li><p>    0 chapters   | <a href="https://github.com/lab-antwerp-1/home/projects/1?card_filter_query=label%3Adeliverable+milestone%3Aprecourse+assignee%3AcolevandersWands">deliverables</a>   </p></li></ul></li>
 <li><h3><a href="https://home.hackyourfuture.be/curriculum/workflows" style="display: inline;">workflows</a></h3>  <ul><li><p>    2 chapters   | <a href="https://github.com/lab-antwerp-1/home/projects/1?card_filter_query=label%3Adeliverable+milestone%3Aworkflows+assignee%3AcolevandersWands">deliverables</a>    | <a href="https://github.com/lab-antwerp-1/home/issues?q=milestone%3Aworkflows+label%3Acheck-in+author%3AcolevandersWands">check-in</a> | <a href="./workflows/retrospective.md">retro</a> | <a href="https://github.com/colevandersWands/workflows">my fork</a>  </p></li></ul></li>
 <li><h3><a href="https://home.hackyourfuture.be/curriculum/agile-development" style="display: inline;">agile-development</a></h3>  <ul><li><p>    3 chapters   | <a href="https://github.com/lab-antwerp-1/home/projects/1?card_filter_query=label%3Adeliverable+milestone%3Aagile-development+assignee%3AcolevandersWands">deliverables</a>    | <a href="https://github.com/lab-antwerp-1/home/issues?q=milestone%3Aagile-development+label%3Acheck-in+author%3AcolevandersWands">check-in</a> | <a href="./agile-development/retrospective.md">retro</a> | <a href="https://github.com/colevandersWands/agile-development">my fork</a>  </p></li></ul></li>
 <li><h3><a href="https://home.hackyourfuture.be/curriculum/ux-ui-design" style="display: inline;">ux-ui-design</a></h3>  <ul><li><p>    2 chapters   | <a href="https://github.com/lab-antwerp-1/home/projects/1?card_filter_query=label%3Adeliverable+milestone%3Aux-ui-design+assignee%3AcolevandersWands">deliverables</a>    | <a href="https://github.com/lab-antwerp-1/home/issues?q=milestone%3Aux-ui-design+label%3Acheck-in+author%3AcolevandersWands">check-in</a> | <a href="./ux-ui-design/retrospective.md">retro</a> | <a href="https://github.com/colevandersWands/ux-ui-design">my fork</a>  </p></li></ul></li>
